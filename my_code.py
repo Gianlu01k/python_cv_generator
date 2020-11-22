@@ -8,10 +8,11 @@ def speak(text):
 document = Document()
 
 #profile picture
-#document.add_picture(
-    #'path',
-    # width=Inces(dim.0) 
-#)
+document.add_picture(
+    '2018-tesla-model-3-p1.jpg',
+    width=Inches(2.0)
+)
+
 
 
 #name, phone number and email
