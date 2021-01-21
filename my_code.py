@@ -9,7 +9,7 @@ document = Document()
 
 #profile picture
 document.add_picture(
-    '2018-tesla-model-3-p1.jpg',
+    'profile_picture.jpg',
     width=Inches(2.0)
 )
 
